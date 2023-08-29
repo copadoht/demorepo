@@ -3668,6 +3668,10 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+        <tab>Employee__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Getting_Started</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
