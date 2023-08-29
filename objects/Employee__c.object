@@ -154,6 +154,14 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Emp_Contact_No__c</fullName>
+        <externalId>false</externalId>
+        <label>Emp Contact No</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>Emp_Location__c</fullName>
         <externalId>false</externalId>
         <label>Emp Location</label>
