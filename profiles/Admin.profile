@@ -17575,7 +17575,7 @@
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Employee__c</tab>
-        <visibility>Hidden</visibility>
+        <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>copado__Account_Summary</tab>
